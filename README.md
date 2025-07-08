@@ -40,8 +40,8 @@ This project implements an automated **ETL pipeline** that scrapes product data 
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/BintangBudi/Building-Simple-ETL-Pipeline.git
+cd Building-Simple-ETL-Pipeline
 ```
 
 ### 2. Create Virtual Environment
