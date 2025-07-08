@@ -55,19 +55,7 @@ source venv/bin/activate
 ```
 
 ### 3. Install Dependencies
-## Create a requirements.txt file with the following content:
-```bash
-requests
-beautifulsoup4
-pandas
-sqlalchemy
-psycopg2-binary
-google-api-python-client
-google-auth-httplib2
-google-auth-oauthlib
-python-dotenv
-```
-## Then run:
+
 ```bash
 pip install -r requirements.txt
 ```
